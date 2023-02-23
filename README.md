@@ -32,11 +32,17 @@ TASK 2
 
 
 Load data from a JSON file using the json module.
+
 Define a date range using datetime objects.
+
 Filter the data based on the selected date range using a list comprehension.
+
 Calculate the number of items scheduled one day and two days prior to their item date.
+
 Calculate the percentages of items scheduled one day and two days prior to their item date.
+
 Create a bar chart using matplotlib.pyplot showing the percentages of items scheduled one day and two days prior to their item date.
+
 The bar chart shows two bars labeled "1 day prior" and "2 days prior" representing the percentage of items scheduled one and two days prior to their item date respectively. The x-axis represents the number of days prior to the item date and the y-axis represents the percentage of scheduling. The chart is titled "Prior Scheduling Time" and has x and y axis labels.
 
 
